@@ -1,3 +1,5 @@
+<div align="center">
+
 # Inqueropedia
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
@@ -5,6 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 **Inqueropedia** is a pre-trained chatbot built on the [Plain Text Wikipedia Dataset](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish?utm_source=chatgpt.com), making it a fast and efficient way to explore knowledge from Wikipedia.
+</div>
 
 ---
 
