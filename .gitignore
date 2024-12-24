@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+.gitattributes
+datasets/plain_text_wikipedia/1of2/
+datasets/plain_text_wikipedia/2of2/
+
+
