@@ -50,7 +50,7 @@ Stay tuned! A detailed guide for setting up Inqueropedia locally, including depe
 ---
 
 ## Roadmap
-
+- [ ] Data preprocessing
 - [ ] Get the model ready.
 - [ ] Implement setup guide for local deployment.
 - [ ] Build a web-based interface for enhanced usability.
