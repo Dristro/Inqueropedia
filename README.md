@@ -17,6 +17,15 @@ Inqueropedia aims to simplify information discovery by transforming the vast con
 
 ---
 
+## Approach
+
+Inqueropedia is built from the ground up. From  dataset preparation to model architecture and training, every component is designed in-house. This approach ensures:
+- Full transparency and control over the model.
+- A solution tailored specifically to querying Wikipedia data.
+- A learning experience that deepens understanding of AI and NLP.
+
+---
+
 ## Why Use Inqueropedia?
 
 Reading through an entire Wikipedia article to learn about something can be time-consuming. Instead, you can use **Inqueropedia** — a chatbot designed to query Wikipedia data effortlessly. 
@@ -60,7 +69,9 @@ Stay tuned! A detailed guide for setting up Inqueropedia locally, including depe
 
 ## Contributing
 
-Contributions are welcome to improve Inqueropedia! Whether it's bug fixes, new features, or improving documentation, feel free to fork the repository and submit a pull request.
+While Inqueropedia is a solo project, I welcome suggestions and feedback! If you'd like to contribute, feel free to:
+- Fork the repository and experiment with improvements.
+- Share your ideas or issues by opening an [issue](https://github.com/Dristro/Inqueropedia/issues) or a pull request.
 
 ### Steps to Contribute:
 1. Fork the repository.
