@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-**Inqueropedia** is a pre-trained chatbot built on the [Plain Text Wikipedia Dataset](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish?utm_source=chatgpt.com), making it a fast and efficient way to explore knowledge from Wikipedia.
+**Inqueropedia** is a pre-trained chatbot built on the [wikitext](https://huggingface.co/datasets/Salesforce/wikitext) dataset, making it a fast and efficient way to explore knowledge from Wikipedia.
 </div>
 
 ---
@@ -47,7 +47,7 @@ Reading through an entire Wikipedia article to learn about something can be time
 
 - **Language**: Python
 - **Framework**: PyTorch
-- **Dataset**: [Plain Text Wikipedia Dataset](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish?utm_source=chatgpt.com)
+- **Dataset**: [wikitext](https://huggingface.co/datasets/Salesforce/wikitext)
 - **Deployment**: *Will decide once ready for deployment*
 
 ---
