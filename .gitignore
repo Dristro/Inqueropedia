@@ -2,7 +2,10 @@
 .ipynb_checkpoints
 .gitattributes
 extra/
-datasets/
-scripts/__pycache__
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 

@@ -207,4 +207,4 @@ def _run_test():
     print(f"String encoded: {_temp_enc}")
     print(f"Encoded-decoded: {_temp_dec}")
 
-_run_test()
+#_run_test()  # Uncomment this to test the code
