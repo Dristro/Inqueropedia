@@ -1,6 +1,6 @@
 # Models
 
-Choose the model of you liking from this dir.
+Choose the model of your liking from this dir.
 
 Refer to `notebooks/transformer_models.ipynb` for more info on the transformer models.
 The notebook: `notebooks/preprocessing.ipynb` has the code for the bi-gram model.
